@@ -1,0 +1,53 @@
+
+.select-all-box {
+    display: flex;
+    align-items: center;
+    margin-top: 3rem;
+  }
+  
+  .select-all-box input {
+    height: 1.75rem;
+    width: 1.75rem;
+    margin-right: 0.75rem;
+  }
+  
+  .select-all-box label {
+    font-weight: bold;
+    font-size: 1.5rem;
+    color: rgba(255, 154, 2, 0.918);
+  }
+  
+  .grp-permissions {
+    display: flex;
+    align-items: center;
+    margin-bottom: 1rem;
+    padding-bottom: 0.5rem;
+  }
+  
+  .grp-permissions input {
+    height: 1.5rem;
+    width: 1.75rem;
+    margin-right: 12px;
+  }
+  
+  .grp-permissions label {
+    font-weight: bold;
+    font-size: 1.5rem;
+  }
+  
+  .permissions {
+    display: flex;
+    align-items: center;
+    margin: 0.75rem 0 0 1.5rem;
+  }
+  
+  .permissions input {
+    height: 1.25rem;
+    width: 1.25rem;
+    margin-right: 0.75rem;
+  }
+  
+  .permissions label {
+    font-size: 1.25rem;
+  }
+  
